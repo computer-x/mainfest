@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote  name="origin"
+		fetch="https://github.com/username" />
+
+	<default revision="master"
+		remote="origin"/>
+
+	<project name="wencai1" path="wencai1" />
+
+	<project name="wencai2" path="wencai2" />
+
+</manifest>
