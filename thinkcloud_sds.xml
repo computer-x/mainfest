@@ -2,13 +2,12 @@
 <manifest>
 
 	<remote  name="origin"
-		fetch="https://github.com/username" />
+		fetch="https://github.com/computer-x" />
 
 	<default revision="master"
 		remote="origin"/>
 
-	<project name="wencai1" path="wencai1" />
+	<project name="hello-world" path="hello-world" />
 
-	<project name="wencai2" path="wencai2" />
 
 </manifest>
